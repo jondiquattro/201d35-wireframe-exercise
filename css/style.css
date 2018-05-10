@@ -1,2 +1,8 @@
 body{ font-family: helvetica, sans-serif
 }
+
+header {
+    height: 100px;
+    /* padding: 15px; */
+    background: #111;
+}
